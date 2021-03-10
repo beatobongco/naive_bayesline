@@ -2,4 +2,4 @@
 
 One of the best baselines for classification.
 
-Naive Bayes from scratch -> NBSVM. A journey from 75%-90% accuracy.
+Naive Bayes from scratch all the way to NBSVM. A journey from 75%-90% accuracy.
